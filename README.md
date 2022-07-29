@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasGoni
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning FullStack Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me lucas.rgoni@gmail.com
 
 <!---
